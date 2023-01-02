@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Thinus01
+# Hi there, I'm Thinus Van de Venter 👋 
+
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://Thinus01.glitch.me/pixel.svg" />
+</p>
+
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Thinus01/Thinus01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you ever have a problem in life, code it away. If it's still there, you probably have a null reverence somewhere.
