@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Visitor count<br>
-  <img src="https://Thinus01.glitch.me/pixel.svg" />
+  <img src="https://profile-counter.glitch.me/Thinus01/pixel.svg" />
 </p>
 
 
