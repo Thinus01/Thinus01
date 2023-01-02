@@ -17,6 +17,8 @@
 
 [<img align="left" alt="twitter" width="26px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" style="padding-right:10px;" />](https://twitter.com/thinus_v_d_v#gh-dark-mode-only)
 [<img align="left" alt="twitter" width="26px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" style="padding-right:10px;" />](https://twitter.com/thinus_v_d_v#gh-light-mode-only)
+[<img align="left" alt="linkedin" width="26px" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" style="padding-right:10px;" />](https://linkedin.com/thinus_v_d_v#gh-dark-mode-only)
+[<img align="left" alt="linkedin" width="26px" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" style="padding-right:10px;" />](https://linkedin.com/thinus_v_d_v#gh-light-mode-only)
 
 [![website](./img/twitter-light.svg)](https://twitter.com/thinus_v_d_v#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/thinus_v_d_v#gh-dark-mode-only)
