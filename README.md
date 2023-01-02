@@ -20,7 +20,8 @@
 [<img align="left" alt="linkedin" width="26px" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" style="padding-right:10px;" />](https://www.linkedin.com/in/thinus-van-de-venter-99aa26203/#gh-dark-mode-only)
 [<img align="left" alt="linkedin" width="26px" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" style="padding-right:10px;" />](https://www.linkedin.com/in/thinus-van-de-venter-99aa26203/#gh-light-mode-only)
 
-
+<br>
+</br>
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
