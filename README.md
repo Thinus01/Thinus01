@@ -15,8 +15,8 @@
 
 ## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
-[<img align="left" alt="twitter" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://twitter.com/thinus_v_d_v#gh-dark-mode-only)
-[<img align="left" alt="twitter" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://twitter.com/thinus_v_d_v#gh-light-mode-only)
+[<img align="left" alt="twitter" width="26px" src="https://www.citypng.com/public/uploads/preview/-51614965023fopywzit3m.png" style="padding-right:10px;" />](https://twitter.com/thinus_v_d_v#gh-dark-mode-only)
+[<img align="left" alt="twitter" width="26px" src="https://www.citypng.com/public/uploads/preview/-51614965023fopywzit3m.png" style="padding-right:10px;" />](https://twitter.com/thinus_v_d_v#gh-light-mode-only)
 
 [![website](./img/twitter-light.svg)](https://twitter.com/thinus_v_d_v#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/thinus_v_d_v#gh-dark-mode-only)
