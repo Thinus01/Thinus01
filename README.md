@@ -5,7 +5,7 @@
 <img src="https://profile-counter.glitch.me/Thinus01/count.svg" />
 </p>
 
-##If you ever have a problem in life, code it away. If it's still there, you probably have a null reverence somewhere.
+#If you ever have a problem in life, code it away. If it's still there, you probably have a null reverence somewhere.
 
 - 👀 I’m interested in learning Ruby and Ruby on Rails.
 - 😻 I’m currently learning JavaScript.
