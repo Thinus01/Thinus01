@@ -9,7 +9,7 @@ If you ever have a problem in life, code it away. If it's still there, you proba
 
 - 👀 I’m interested in learning Ruby and Ruby on Rails.
 - 😻 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate with open minded and honnest co-workers.
+- 💞️ I’m looking to collaborate with open-minded and honest co-workers.
 - 📫 Do not waste any time, send me an email at thinusvdv2001@gmail.com. I am waiting in anticipation.
 - 🌱 I am located in South Africa, Western Cape.
 
