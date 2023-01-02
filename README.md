@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Thinus01/pixel.svg" />
+![Visitor Count](https://profile-counter.glitch.me/Thinus01/count.svg)
 </p>
 
 
